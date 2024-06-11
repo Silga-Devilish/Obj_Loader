@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\18060\source\repos\Obj_Loader\Obj_Loader\main.cpp(24,45): warning C4101: “e”: 未引用的局部变量
+C:\Users\18060\source\repos\Obj_Loader\Obj_Loader\main.cpp(29,41): warning C4101: “e”: 未引用的局部变量
+  obj_loader.cpp
+  正在生成代码...
+  Obj_Loader.vcxproj -> C:\Users\18060\source\repos\Obj_Loader\x64\Debug\Obj_Loader.exe
